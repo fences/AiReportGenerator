@@ -1,0 +1,6 @@
+﻿{
+  "ModelUrl": "https://api.avalai.ir/v1/chat/completions",
+  "BaseUrl": "https://api.avalai.ir/v1",
+  "ApiKey": "YOUR-CODE",
+  "MaxToken": 16000
+}
